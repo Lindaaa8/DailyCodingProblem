@@ -58,3 +58,6 @@ Suppose you have n versions [1, 2, ..., n] and you want to find out the first ba
 You are given an API bool isBadVersion(version) which will return whether version is bad. Implement a function to find the first bad version. You should minimize the number of calls to the API.
 
 13. remove element from a linkedlist, linkedlist initalization
+
+14. Find if a string is interleaved of two other strings.
+
