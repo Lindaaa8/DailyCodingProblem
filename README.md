@@ -59,5 +59,5 @@ You are given an API bool isBadVersion(version) which will return whether versio
 
 13. remove element from a linkedlist, linkedlist initalization
 
-14. Find if a string is interleaved of two other strings.
+14. Find if a string is interleaved of two other strings 
 
