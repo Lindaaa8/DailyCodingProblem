@@ -1,4 +1,4 @@
-// my practices of Leetcode sample questions
+/** practices of Leetcode sample questions */
 
 1. Longest Substring Without Repeating Characters
 
@@ -61,3 +61,4 @@ You are given an API bool isBadVersion(version) which will return whether versio
 
 14. Find if a string is interleaved of two other strings 
 
+15. Find the max number of connected color in a n * n grids.
